@@ -1,16 +1,29 @@
 # brewbite
 
-A new Flutter project.
+A mobile application developed with Flutter for seamless coffee ordering, featuring intuitive navigation and payment processing.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- ☕ **Coffee Ordering:** Browse coffee options, add items to the cart, and process payments.
+- 🎨 **UI Design:** Responsive and user-friendly interface ensuring a consistent experience.
+- 🛠️ **State Management:** Managed application state using the Provider package.
+- 🚀 **Navigation:** Intuitive navigation for smooth user interaction throughout the app.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter
+- **State Management:** Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+- **Nandini Sharma**
+- [GitHub Profile](https://github.com/Nandini056)
